@@ -1,4 +1,4 @@
-##  连分数
+##  continued fraction
 
 ```python
 def solve(a, b):
